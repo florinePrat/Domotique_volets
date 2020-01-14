@@ -23,7 +23,7 @@ Il ne fonctionne que depuis une raspberry directement.
 Installer les dépendances et démmarer le serveur.
 
 ```sh
-$ cd renduAsaiot
+$ cd Domotique_volets
 $ apt-get install
 $ python3 view.py flask run
 ```

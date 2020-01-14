@@ -1,5 +1,4 @@
-### Vous trouverez également le rendu sur github à l'adresse : https://github.com/florinePrat/renduAsaiot
-# renduAsaiot
+# Domotique de volet roulants électriques
 Bonjour ce projet à pour but de contrôler l'ouverture et la fermeture des volets électriques en fonction de la température et de la luminosité. 
 Il permet donc d'être plus économique et plus écologique.
 
